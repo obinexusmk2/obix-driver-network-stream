@@ -1,6 +1,6 @@
 {
   "name": "@obinexusltd/obix-driver-network-stream",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "OBIX Network Stream Driver - WebSocket/SSE for telemetry and real-time state sync",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
